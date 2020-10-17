@@ -1,2 +1,2 @@
 config:
-  info: "master branch,cloud-config/config-dev.yml version=3344" 
+  info: "master branch,cloud-config/config-dev.yml version=3344 ,message SpringCloud Bus动态刷新————Config服务端。" 
